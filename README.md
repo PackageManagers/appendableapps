@@ -1,0 +1,427 @@
+This is primarily a tracking issue for myself with the intent to add packages not yet included from PortableApps, make sure they use static installer links, ensure the right installer types are being used, and include as much information possible in the manifests (such as descriptions, tags, cli names, etc.). I will avoid unsupported or EOL releases.
+
+## Accessibility
+- [ ]  Balabolka(Freeware) - read text aloud or save to audio file (zip)
+- [ ]  Dicom- word completion utility
+- [ ]  DSpeech(Freeware) - read text aloud or save to audio file
+- [ ]  On-Screen Keyboard- Easily access an on-screen keyboard
+- [x]  Virtual Magnifying Glass- A full-featured screen magnifier
+- [x]  Firefox Accessibility Extension - Make Firefox more accessible
+## Development
+- [x]  AkelPad- lightweight plaintext editor
+- [x]  Cppcheck- C/C++ analysis tool
+- [ ]  Database Browser(Freeware) - Database management utility
+- [x]  DB Browser for SQLite- Simple SQLite database management tool
+- [x]  Frhed- free hex editor
+- [x]  Geany- Text editor and basic IDE
+- [ ]  gVim- advanced, feature-rich text editor
+- [x]  HM NIS Edit- NSIS development environment
+- [ ]  IniTranslator- INI translation tool
+- [x]  Notepad++- A full-featured text editor with syntax highlighting
+- [ ]  Notepad2- Simple, lightweight text editor
+- [x]  Notepad2-mod- Lightweight text editor
+- [x]  NSIS- Windows installer and launcher creation
+- [ ]  Nvu& KompoZer- The easy-to-use Nvu web editor
+- [ ]  PortableApps.com Installer - the easy way to packageapps
+- [ ]  PortableApps.com Launcher - make appswithout writing code
+- [ ]  Sqliteman- SQLite databases made easy
+- [x]  SWI-Prolog- Prolog programming environment
+- [ ]  Q-Eye(Freeware) - lightweight QlikView data file viewer
+- [x]  XAMPP - Apache, mySQL, PHP, phpMyAdmin, etc in one package
+## Education
+- [x]  Artha- offline thesaurus
+- [x]  BPBible- bible study tool
+- [x]  Celestia-space simulator
+- [x]  FreeMat- scientific prototyping and technical computing
+- [x]  GoldenDict- dictionary and encyclopedia lookups
+- [x]  Gramps- genealogical research software
+- [ ]  Marble- virtual globe and atlas
+- [x]  Mnemosyne- flashcard memorization tool
+- [x]  Solfege- ear training program
+- [x]  Stellarium-planetarium
+- [x]  TIPP10- touch typing tutor
+- [x]  TypeFaster- touch typing tutor
+## Games
+- [ ]  2048- number tile puzzle game
+- [ ]  4st Attack- 4-in-a-row puzzle game
+- [ ]  ADR- launcher for A Dark Room minimalist text adventure
+- [ ]  Armagetron Advanced- 3d lightcycle game
+- [x]  AssaultCube- fast-paced, online, first-person shooter
+- [ ]  Atomic Tanks- overly-powerful tanks blow each other up
+- [x]  Battle for Wesnoth- turn-based fantasy strategy game
+- [ ]  Beret- 2D puzzle-platformer game
+- [ ]  Big Solitaires 3D- collection of 40 solitaire games
+- [x]  Brutal Chess- 3d chess
+- [x]  BYOND(Freeware) - online multiplayer game creator
+- [ ]  Canabalt(Freeware) - outrun the demolition of your city with just one button
+- [ ]  Chromium B.S.U.- fast-paced, vertical scrolling space shooter
+- [X]  Cube- old-school first person shooter
+- [X]  Dave Gnukem- side-scrolling platform shooter
+- [x]  DOSBox- classic DOS games to go
+- [x]  Freeciv- empire-building strategy game
+- [ ]  Get Sudoku- interactive sudoku solver
+- [ ]  Golly- Game of Life simulator
+- [x]  Hedgewars- turn-based strategy, artillery and comedy game
+- [ ]  Hex-a-Hop- hexagonal puzzle game
+- [ ]  IceBreaker- wall-building-style arcade game
+- [x]  I Have No Tomatoes- run and explode maze game
+- [ ]  Jooleem- simple and addictive puzzle game with great music and visuals
+- [ ]  Kobo Deluxe- 3rd person scrolling 2D space shooter
+- [x]  LBreakout2- breakout-style arcade game similar to Arkanoid
+- [ ]  LMarbles- pattern-matching puzzle game
+- [ ]  Lucas Chess- chess trainer and player
+- [ ]  Mana Plus- a free, 2D, retro-style MMORPG
+- [ ]  ManiaDrive- acrobatic arcade race game
+- [ ]  Mines-Perfect- a classic hunt-for-mines game with advanced features
+- [ ]  Monster 2- retro-style role-playing game
+- [ ]  NetHack- single player dungeon exploration (zipped, but officially available from the MS Store)
+- [ ]  netPanzer- multiplayer tactical warfare
+- [ ]  Neverball- 3d rolling ball obstacle course
+- [x]  OpenTTD- urban planning simulation
+- [ ]  Pathological- color-matching puzzle game
+- [x]  Pingus- puzzle platforming game
+- [x]  PokerTH- classic Texas Hold Em style poker at its best
+- [ ]  Project Invincible- 3D chess with configurable AI
+- [ ]  Pushover- falling domino puzzle game
+- [ ]  Puzzle Collection- dozens of single player puzzles
+- [ ]  Quick Blackjack(Freeware) - play blackjack against the computer
+- [ ]  Quick Bridge(Freeware) - play bridge against the computer
+- [ ]  Quick Cribbage(Freeware) - play cribbage against the computer
+- [ ]  Quick Poker(Freeware) - play poker against the computer
+- [ ]  Quick Solitaire(Freeware) - seven classic solitaire games
+- [x]  Rocks'n'Diamonds- fast-paced gem collection game
+- [ ]  Sauerbraten (Cube 2)- first person shooter
+- [ ]  Scorched 3D- turn-based over-powered artillery in 3D
+- [ ]  Simple Sudoku(Freeware) - sudoku game, creator, and solver
+- [ ]  Sudoku- the wildly popular and addictive puzzle game
+- [x]  SuperTux- jump n' run sidescroller game
+- [x]  SuperTuxKart- multiplayer cart racing
+- [ ]  T^3- 3 dimensional tetris
+- [ ]  The Legend of Edgar- 2D platform adventure game
+- [ ]  The Powder Toy- physics sandbox game
+- [ ]  Tick5- 5-in-a-row puzzle game
+- [ ]  Tile World- engaging and fast-paced tile-based puzzles
+- [ ]  Twin Distress- color matching puzzle game
+- [ ]  USB Sudoku- the wildly popular and addictive puzzle game
+- [x]  Warzone 2100- single or online multiplayer real-time strategy game
+- [ ]  WarMUX- turn-based war of Unix mascots
+- [ ]  WAtomic- molecular puzzle game
+- [ ]  WinBoard Chess- advanced chess engine
+- [ ]  Wizznic- brick-matching puzzle game
+- [x]  X-Moto- 2D motocross platform game
+- [ ]  Xonotic- fast-paced first person shooter
+- [ ]  Xye- collect-the-gems puzzle game
+- [ ]  Zaz- color-matching puzzle game
+## Graphics & Pictures
+- [ ]  AndreaMosaic(Freeware) - mosaic image creator
+- [ ]  AniFX(Freeware) - full-featured cursor editor
+- [x]  Blender- 3D modelling, animation, rendering, post-production, playback
+- [x]  Caesium- image converter and optimizer
+- [ ]  Cornice- image viewer with slideshow
+- [x]  Dia- full-featured diagramming tool
+- [ ]  DiffImg- image comparison tool
+- [x]  FastStone Capture(Freeware) - screen capture and editor
+- [x]  FastStone Image Viewer(Freeware) - view, organize and convert images
+- [ ]  Fotografix(Freeware) - lightweight image editor
+- [x]  FotoSketcher(Freeware) - make art from digital images
+- [ ]  Fyre- 2D computational artwork
+- [x]  GIMP- Photo and Image Editor
+- [ ]  Greenfish Icon Editor Pro- icon, cursor, and library editor
+- [ ]  Hot Spot Studio(Freeware) - mix light to create art
+- [ ]  IcoFX(Freeware) - full-featured icon editor
+- [x]  IDPhotoStudio(Freeware) - ID photo duplicator and printer
+- [x]  Inkscape- vector graphics editor
+- [x]  IrfanView(Freeware) - lightweight graphic viewer
+- [x]  JPEGView- image viewer and processor
+- [ ]  K-3D- 3D modeling and animation
+- [x]  Krita- Sketching and painting
+- [ ]  LazPaint- Photo and Image Editor
+- [x]  LibreCAD- 2D computer-aided design (CAD) tool
+- [x]  MyPaint- Digital painting and illustration
+- [ ]  Pencil2D- 2D hand-drawn animation tool
+- [x]  Pencil Project- prototyping and diagramming tool
+- [ ]  PhotoFilmStrip- photo slide show creator
+- [ ]  PhotoFiltre(Freeware) - image editing and effects
+- [x]  PicPick(Freeware) - screen capture, editor, color picker, and more
+- [ ]  PngOptimizer- image converter and optimizer
+- [x]  RawTherapee- advanced raw image processor
+- [ ]  Smart Deblur- sharpen out of focus and blurry images
+- [x]  XnView(Freeware) - view, organize and convert photos
+## Internet
+- [ ]  aMSN- chat and video chat on MSN/Windows Live
+- [ ]  DamnVid- video downloader and encoder
+- [ ]  Ekiga- softphone, video conferencing and chat
+- [x]  Falkon- web browser
+- [ ]  Feed Notifier- RSS/ATOM popup feed notifications
+- [ ]  FeedRoller(Freeware) - RSS/ATOM desktop ticker
+- [x]  FileZilla- the full-featured FTP client
+- [x]  Free Download Manager- download manager and optimizer
+- [x]  Google Chrome(Freeware) - fast, simple, themeable browser
+- [x]  gPodder- podcast receiver and manager
+- [x]  HexChat- customizable IRC chat client
+- [ ]  Instantbird- customizable instant messaging on AOL, Facebook, Google, MSN and more
+- [ ]  Iron- advanced web browser
+- [ ]  Isotoxin- multiprotocol secure chat
+- [ ]  Juice- podcast receiver and manager
+- [x]  K-Meleon- lightweight, customizable browser
+- [ ]  KiTTY- telnet and SSH with added features
+- [ ]  KVIrc- full-featured IRC chat client
+- [ ]  Links- text-based browser
+- [ ]  LAN Messenger- peer-to-peer LAN chat and file transfer
+- [ ]  Lynx- text-based browser
+- [x]  Maxthon(Freeware) - fast, powerful browser
+- [x]  MicroSIP- lightweight SIP softphone
+- [x]  Miranda IM- chat with AOL, MSN and Yahoo users in a customizable interface
+- [x]  Miranda NG- multi-protocol instant messaging
+- [x]  Mozilla Firefox,   - the award-winning web browser that's safe and secure
+- [x]  Mozilla Firefox Developer Edition,- browser with built in development tools
+- [x]  Mozilla Thunderbird,   - the handy email client
+- [x]  Mumble- voice chat
+- [ ]  Nvu& KompoZer- the easy-to-use webpage editor
+- [x]  Opera,   (Freeware) - lightweight, customizable browser
+- [x]  Opera GX,   (Freeware) - customizable gaming browser
+- [ ]  Opera Mail(Freeware) - lightweight email client
+- [ ]  PChat- full-featured IRC chat client
+- [x]  Pidgin- chat with AOL, MSN and Yahoo users in an easy-to-use interface
+- [ ]  PopMan- lightweight email notifier
+- [ ]  Private Browsing by PortableApps.com - enhanced private browsing
+- [x]  PuTTY- lightweight telnet and SSH client
+- [x]  qBittorrent- lightweight bittorrent client
+- [x]  QuiteRSS- Standalone RSS feed reader
+- [ ]  QupZilla- lightweight web browser
+- [ ]  QuteCom- softphone, text, audio and video chat
+- [x]  Sage Extension (for Firefox) - A full-featured RSS extension
+- [x]  SeaMonkey,   - complete internet suite (browser, email, chat, newsgroups)
+- [ ]  sPortable (Freeware) - assists with using Skype portably
+- [ ]  Sylpheed- lightweight email client
+- [x]  Telegram Desktop- secure instant messaging
+- [x]  Transmission- fast, easy, free bittorrent client
+- [ ]  TweetDeck(Freeware) - twitter client
+- [ ]  µTorrent(Freeware) - lightweight bittorrent client
+- [ ]  WackGet- simple download manager
+- [x]  WinSCP- SFTP, FTP and SCP client
+- [ ]  WinWGet- take and manage your downloads on the go
+- [ ]  wxDownload Fast- multi-threaded download manager
+## Music & Video
+- [x]  AIMP(freeware) - Music player, library, converter and more
+- [x]  Audacity- A simple audio editor and recorder
+- [ ]  AutoDrum- automatic drum accompanist
+- [x]  Avidemux-simple video editor
+- [ ]  CDex- cd audio extraction and conversion
+- [ ]  cdrtfe- CD, DVD, VCD burner
+- [ ]  CoolPlayer+- Lightweight, fast, easy-to-use audio player
+- [x]  DVDStyler- DVD menu authoring tool
+- [ ]  fre:ac- extract, convert, and encode audio
+- [x]  InfraRecorder- full-featured CD and DVD burner
+- [ ]  LameXP- audio converter
+- [x]  LMMS (Linux MultiMedia Studio)- music creation and production
+- [ ]  Media Player Classic - Black Edition (MPC-BE)- Lightweight media player
+- [ ]  Media Player Classic - Home Cinema (MPC-HC)- Lightweight media player
+- [x]  MediaInfo- media information utility
+- [ ]  Mixxx- virtual DJ mixer
+- [ ]  Mp3splt-gtk- mp3, FLAC, and ogg splitter
+- [x]  MuseScore- music composition and notation
+- [x]  OBS Studio- live streaming and recording software
+- [x]  OpenShot- full-featured video editor
+- [x]  MusicBrainz Picard- audio file tagger
+- [ ]  Paul Stretch- extreme audio stretching
+- [x]  PotPlayer(freeware) - hardware enhanced media player
+- [x]  Qmmp- Lightweight audio player
+- [x]  SMPlayer- Full-featured movie player with support for most video formats
+- [ ]  TAudioConverter- audio converter and cd extractor
+- [ ]  TEncoder Video Converter- convert, rip, and download video
+- [ ]  VirtualDub- video processing and capture utility
+- [x]  VLC Media Player- An easy to use media player that plays many formats
+- [ ]  WaveShop- bit-perfect audio editor
+- [ ]  wxMP3gain- MP3 audio normalizer
+- [ ]  XMPlay(Freeware) - Full featured audio player and library
+## Office
+- [ ]  A Note- lightweight sticky notes
+- [ ]  AbiWord- a lightweight word processor compatible with Microsoft Word files
+- [x] Apache OpenOffice- word processor, spreadsheet, presentations with Microsoft compatibility
+- [ ]  BabelPad(Freeware) - Unicode word processor and text editor
+- [x]  calibre- ebook manager and viewer
+- [x]  Cherrytree- hierarchical note-taker and organizer
+- [ ]  CintaNotes(Freeware) - lightweight note-taker
+- [ ]  CuteMarkEd- simple markdown editor
+- [x]  Dia- full-featured diagramming tool
+- [ ]  Evince- document viewer (pdf, ps, djvu, tiff, dvi)
+- [ ]  Finance Explorer(Freeware) - personal financial management
+- [x]  FocusWriter- distraction-free word processor
+- [x]  Foxit Reader(Freeware) - small and fast PDF reader
+- [x]  GnuCash- accounting, expenses and financial management
+- [ ]  Gnumeric- full-featured spreadsheet
+- [ ]  Jarte(Freeware) - lightweight, tabbed word processor
+- [ ]  KchmViewer- full-featured CHM viewer
+- [ ]  KeepNotePortable - note taking and organization
+- [x] LibreOffice- word processor, spreadsheet, presentations with excellent compatibility
+- [ ]  Money Manager Ex- easy-to-use personal finance software
+- [ ]  Mozilla Sunbird,   - Calendar and task management with a familiar interface
+- [ ]  Mozilla Thunderbird,   (Address Book) - Email client's full featured address book
+- [x]  PDFTK Builder- split, collate, watermark and password protect PDF documents
+- [x]  PDF-XChange Editor(Freeware) - PDF editor and viewer
+- [ ]  PDF-XChange Viewer(Freeware) - PDF viewer
+- [ ]  PNotes- sticky notes to go
+- [ ]  QOwnNotes- markdown note-taker
+- [ ]  RedNotebook- modern journal and diary
+- [x]  Scribus- desktop publishing
+- [x]  Sigil- WYSIWYG ebook editor
+- [x]  SpeedCrunch- an intuitive algebraic calculator
+- [x]  Stickies(Freeware) - lightweight sticky notes
+- [x]  Sumatra PDF- PDF, Comic Book, and E-book Reader
+- [ ]  Task Coach- to do list and task manager
+- [ ]  The Guide- two-pane outliner
+- [x]  WinDjView- a lightweight DjVu viewer
+- [ ]  ZoomIt(Freeware) - live screen zooming and annotation
+## Security
+- [x]  ClamWin- Antivirus on the go
+- [ ]  Emsisoft Emergency Kit(Freeware) - virus and malware scanner and remover
+- [ ]  Eraser- securely delete files and data
+- [ ]  EraserDrop- easily secure-erase files and data
+- [ ]  GPG Plugin- GnuPG encrypt and sign utility
+- [ ]  HijackThis- Browser hijack scanner
+- [ ]  Kaspersky TDSSKiller(Freeware) - Rootkit remover
+- [x]  KeePass Classic Password Safe- Secure, easy-to-use password manager
+- [ ]  KeePass Professional Password Safe- Secure, easy-to-use password manager
+- [x]  KeePassXC- Full-featured password manager
+- [ ]  McAfee Stinger(Freeware) - Common antivirus and 'fake alert' remover
+- [ ]  Password Gorilla- Secure password manager
+- [x]  Password Safe- Secure password manager
+- [ ]  PeerBlock - firewall based on IP blacklists and whitelist
+- [ ]  PWGen- Secure password generator
+- [ ]  Spybot - Search & Destroy(Freeware) - Spyware detection and removal
+- [x]  VeraCrypt- free disk encryption
+## Utilities
+- [ ]  2X Client(Freeware) - remote server and RDP access client
+- [x]  7-Zip- File archiver and compressor
+- [x]  Ant Renamer- Advanced file renaming utility
+- [x]  AquaSnap(Freeware) - Screen productivity enhancement
+- [x]  Autoruns(Freeware) - configure autorunning apps and more
+- [ ]  BabelMap(Freeware) - Unicode character browser
+- [x]  BleachBit- cache, temp file and history cleaner
+- [x]  BOINC- help science research using your computer
+- [ ]  CamStudio- screen recorder and video producer
+- [x]  ccPortable (Freeware) - assists with running CCleaner® portably
+- [ ]  Checksum Control- create and verify MD5/SFV checksums
+- [ ]  Clicky Gone- easily hide running windows
+- [ ]  Colour Contrast Analyser- analyze color contrast & readability
+- [ ]  Command Prompt- Simple link to a customizable command prompt
+- [ ]  Console- console window enhancement
+- [ ]  ControlPad(Freeware) - Run commands and apps with your numeric keypad
+- [ ]  Converber(Freeware) - convert units of measurement
+- [ ]  ConvertAll- convert units of measurement
+- [ ]  Cook Timer- simple countdown timer
+- [x]  CPU-Z(Freeware) - system profiler
+- [x]  CrystalDiskInfo- disk health monitoring tool
+- [x]  CrystalDiskMark- disk benchmark utility
+- [ ]  CubicExplorer- advanced file manager
+- [ ]  Daphne- process explorer, killer and debugger
+- [ ]  DebugView(Freeware) - system debug output monitor
+- [ ]  dfgPortable (Freeware) - defragment disks with Defraggler®
+- [ ]  Diffpdf- compare PDFs textually and visually
+- [ ]  Disk Cleaner- cache, temp file and history cleaner
+- [x]  Ditto- clipboard manager and extender
+- [ ]  DM2- window control enhancer
+- [ ]  Don't Panic!- one-click application hider
+- [ ]  dotNETInspector- show which .NET frameworks are installed
+- [ ]  DTaskManager(Freeware) - advanced task manager
+- [x]  DUMo(Freeware) - update local drivers
+- [ ]  DSynchronize(Freeware) - directory synchronization
+- [ ]  Duplicate Files Finder- find and remove duplicate files
+- [ ]  DynDNS Simply Client- update DynDNS hostname IP
+- [ ]  Explorer++Portable - multi-tab file manager
+- [x]  FastCopy- fast file copier and remover
+- [ ]  FileAlyzer(Freeware) - detailed file analysis
+- [ ]  FileVoyager(Freeware) - full-featured file manager
+- [x]  Folding@home(Freeware) - distributed computing project
+- [x]  FontForge- Outline font editor
+- [x]  FreeCommander(Freeware) - easy-to-use windows file manager
+- [ ]  FreeFileSync- file and folder synchronization
+- [ ]  FUPX(Freeware) - advanced executable compression
+- [ ]  GeekUninstaller(Freeware) - local software uninstaller
+- [x]  Ghostscript- Postscript and PDF interpreter
+- [x]  GPU-Z(Freeware) - graphics system profiler
+- [x]  grepWin- regular expression search and replace
+- [ ]  Gridy- snap your open windows to a grid
+- [ ]  HDHacker(Freeware) - MBR and boot sector manager
+- [x]  HWiNFO(Freeware) - software/hardware info
+- [x]  IObit Uninstaller(Freeware) - uninstaller and cleaner
+- [ ]  IObit Unlocker(Freeware) - unlock undeleteable and unmovable files
+- [x]  jdkPortable (Freeware) - Java Development Kit (JDK) made portable
+- [ ]  JkDefrag- Disk defragmentation and optimization
+- [x]  jPortable (Freeware) - Java virtual machine made portable
+- [x]  jPortable Browser Switch - Enable or disable jPortable's Java browser plugin
+- [x]  jPortable Launcher - Run Java JARs portably
+- [x]  KCleaner(Freeware) - local PC cleaner
+- [x]  Lightscreen- easy to use screenshot tool
+- [x]  Listary(Freeware) - find-as-you-type search for Windows Explorer and more
+- [x]  OpenJDK- Java development kit
+- [x]  OpenJDK JRE- Java runtime environment
+- [x]  PCI-Z(Freeware) - pci devices profiler
+- [x]  PeaZip- Easy to use file archiver and compressor
+- [ ]  PortableApps.com AppCompactor - shrink apps without affecting functionality
+- [ ]  PortableApps.com Backup - integrated backup utility bundled with the platform
+- [ ]  PortableApps.com Menu - integrated start menu bundled with the platform
+- [x]  Process Explorer(Freeware) - task manager and process analyzer
+- [ ]  Process Hacker- advanced task manager
+- [x]  Process Monitor(Freeware) - real-time file, registry and process monitor
+- [ ]  Q-Dir(Freeware) - quad pane file manager
+- [ ]  QwikMark(Freeware) - quick system benchmark
+- [ ]  RAMMap(Freeware) - physical memory usage analyzer
+- [x]  Rapid CRC Unicode- CRC/MD5/SHA hashing
+- [ ]  RBTray- minimize apps to the system tray
+- [ ]  rcvPortable (Freeware) - file recovery with Recuva®
+- [ ]  RegAlyzer(Freeware) - registry editor
+- [ ]  Regshot- registry and file comparison
+- [x]  ReNamer(Freeware) - powerful file renaming tool
+- [x]  Resource Hacker(Freeware) - binary resource editor
+- [x]  Rufus- format and create bootable USB drives
+- [x]  Revo Uninstaller(Freeware) - easy to use uninstaller
+- [ ]  Shortcuts Search And Replace- Search and adjust shortcut paths
+- [x]  SIW (System Information for Windows)(Freeware) - software/hardware info
+- [ ]  Smart Defrag(Freeware) - disk defragmentation and optimization
+- [ ]  SnapTimer(Freeware) - countdown timer
+- [x]  specPortable (Freeware) - system information tool with Speccy®
+- [ ]  SpeedyFox(Freeware) - speed up Firefox, Thunderbird and more
+- [ ]  SSD-Z(Freeware) - SSD information tool
+- [ ]  Startup Sentinel(Freeware) - local startup manager
+- [x]  SUMo(Freeware) - update local apps
+- [ ]  Synkron- file and directory synchronization
+- [x]  System Explorer(Freeware) - task manager and process analyzer
+- [ ]  TCPView(Freeware) - TCP connection analysis
+- [x]  TeamViewer(Freeware) - remote PC support and screen-sharing
+- [ ]  Texter- text substitution utility
+- [ ]  TidyTabs(Freeware) - tabbed window manager
+- [ ]  TinyTask- simple macro record/playback
+- [ ]  Toucan - backup, sync and encrypt for advanced users
+- [x]  TreeSize Free(Freeware) - disk usage analyzer and cleanup tool
+- [ ]  TyperTask(Freeware) - text substitution utility
+- [x]  UNetbootin- create bootable Linux USB drives
+- [ ]  UltraDefrag- Disk defragmentation and optimization
+- [ ]  UUID-GUID Generator- generate unique identifiers
+- [ ]  Virtual Volumes View- drive and disk cataloger
+- [ ]  VirtuaWin- virtual desktop manager
+- [ ]  VMMap(Freeware) - process memory analyzer
+- [ ]  WinCDEmu- cd/dvd/bd emulator and ISO mounter
+- [ ]  WhatChanged(Freeware) - registry and file change tracker
+- [ ]  WhoDat- WHOIS lookup client
+- [x]  WinDirStat- disk usage analyzer and cleanup tool
+- [ ]  Windows Error Lookup Tool(Freeware) - find windows error code details
+- [ ]  winMd5Sum- check md5 sums to verify files on the go
+- [ ]  WinPenguins- penguins running around your desktop
+- [x]  WinMerge- file comparison and merging
+- [x]  WinMerge 2011- file comparison and merging
+- [x]  Wise Data Recovery(Freeware) - data and file recovery
+- [x]  Wise Disk Cleaner(Freeware) - disk cleaner and defragmenter
+- [ ]  Wise Program Uninstaller(Freeware) - local software uninstaller
+- [x]  Wise Registry Cleaner(Freeware) - registry cleaner and optimizer
+- [ ]  WinMTR- network diagnostic tool
+- [ ]  World Clock(Freeware) - multiple time zone clock
+- [x]  Workrave- repetitive stress injury prevention
+- [ ]  Xenon File Manager-file browser
+- [ ]  XN Resource Editor-lightweight binary resource editor
+- [ ]  xpy- system settings tweaker
+- [ ]  YUMI- multiboot USB creator
+- [ ]  YUMI-UEFI- multiboot USB creator
+- [x]  Zint Barcode Studio- barcode generator
+- [ ]  ZSoft Uninstaller(Freeware) - uninstaller and cleanerninstaller and cleaner
